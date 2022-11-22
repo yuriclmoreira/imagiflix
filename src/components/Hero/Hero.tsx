@@ -14,9 +14,12 @@ const Hero = ({ title = 'Avengers Endgame', score = 10 }) => {
     }
 
     return (
-        <header className="relate min-h-screen">
-            <img className="object-cover object-center h-full  w-full" src={placeholder} alt='Filme em destaque'></img>
-            <article className="absolute bottom-0 mb-96 px-8">
+        <header className="box-border relative -mb-32 ">
+            <img className="object-cover object-center h-auto  w-full" src={placeholder} alt='Filme em destaque'></img>
+            <div className="absolute inset-0 w-full h-full bg-gradient-to-b from-transparent to-black">
+
+            </div>
+            <article className="absolute bottom-0 mb-32 px-8">
                 <p className="text-2xl">Assista agora:</p>
                 <h2 className="text-5xl font-black">{title}</h2>
                 <p className="text-base my-6">Nota <span className={`inline-block mx-2 py-2 px-3 border-4 bg-black bg-opacity-75 rounded-full ${getBorderColor()}`}>{score}</span></p>
