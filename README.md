@@ -1,4 +1,4 @@
-> Status: Finalizado 🏁
+> Status: Finalizado ✅
 
 <h1 align="center"> Imagiflix </h1>
 
