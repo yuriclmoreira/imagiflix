@@ -3,13 +3,13 @@
 <h1 align="center"> Imagiflix </h1>
 
 <p align="center">
-A website that simulates the interface in the NetFlix application, using the movie db api.
+A website that simulates the interface in the NetFlix application, using the Movie Db Api.
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Magbank Print Screen" src="./src/assets/magbankScreenshot.png" width="100%">
+  <img alt="Magbank Print Screen" src="./src/assets/print.png" width="100%">
 </p>
 
 <h2>🖱️ Technologies</h2>
