@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Loading = () => (
-    <div className='w-screen h-screen bg-black grid place-items-center '>
+    <div className='w-screen h-screen bg-black fixed grid place-items-center '>
         <svg
             style={{
                 margin: 'auto',
