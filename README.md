@@ -26,7 +26,7 @@ A website that simulates the interface in the NetFlix application, using the Mov
 
 <h2>🖥️ Depoly</h2>
 
-To check the deploy, click [this link](https://imagiflix-krfo9em2i-yuriclmoreira.vercel.app).
+To check the deploy, click [this link](https://imagiflix-delta.vercel.app).
 
 <br />
 
