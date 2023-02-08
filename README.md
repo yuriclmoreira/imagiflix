@@ -19,7 +19,7 @@ A website that simulates the interface in the NetFlix application, using the Mov
   <img align="center" alt="Yuri-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Yuri-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">    
   <img align="center" alt="Yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">  
-
+  <img align="center" alt="Yuri-tsx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
 </div>
 
